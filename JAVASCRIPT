@@ -1,0 +1,21 @@
+// scripts.js
+
+document.addEventListener('DOMContentLoaded', () => {
+  const donationForm = document.getElementById('donation-form');
+
+  donationForm.addEventListener('submit', (event) => {
+    event.preventDefault();
+
+    const name = document.getElementById('name').value;
+    const email = document.getElementById('email').value;
+    const bloodType = document.getElementById('blood-type').value;
+
+    // Validation (simple check)
+    if (name && email && bloodType) {
+      alert('Thank you for your donation request!');
+      donationForm.reset();  // Clear the form
+    } else {
+      alert('Please fill out all fields.');
+    }
+  });
+});
