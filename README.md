@@ -15,3 +15,4 @@ Data Analytics: Predict demand trends and optimize resource allocation.
 AWS Role:
 AWS services like Lambda, API Gateway, DynamoDB, RDS, QuickSight, SNS, and S3 are used to build a secure, scalable, and efficient solution that saves lives by streamlining the blood donation and distribution process.
 
+WEBSITE LINK: https://beige-corie-15.tiiny.site/
