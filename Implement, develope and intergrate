@@ -1,0 +1,16 @@
+Implement User Authentication
+
+     1.Create registration and login routes and forms.
+
+     2.Implement user authentication logic, including password hashing and session management.
+
+Develop User Dashboard
+
+     1.Create a dashboard interface displaying user information and blood request options.
+
+     2.Implement blood request submission and tracking functionality.
+
+Integrate with RDS Database
+     1.Set up database connection using appropriate drivers (e.g., mysql2 for Node.js).
+
+     2.Implement database queries for user management and blood request handling.
