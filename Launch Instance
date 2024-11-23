@@ -1,0 +1,21 @@
+Create and Configure an Amazon EC2 Instance
+
+Access EC2 Console: In the AWS Management Console, go to the EC2 service.
+
+Launch Instance: 
+
+1.Click on "Launch Instance" and follow the wizard:
+
+2.Choose an Amazon Machine Image (AMI) suitable for your web application (e.g., Amazon Linux 2).
+
+3.Select an instance type (e.g., t2.micro for testing).
+
+4.Configure instance details, including network settings.
+
+5.Add storage as needed.
+
+6.Add tags for better resource management.
+
+7.Configure security group to allow HTTP/HTTPS traffic.
+
+Review and Launch: Review your instance configuration and launch it, selecting or creating a key pair for SSH access.
